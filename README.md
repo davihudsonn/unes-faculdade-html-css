@@ -16,6 +16,12 @@ O site possui uma interface simples e organizada, contendo páginas instituciona
 - Quem Somos
 - Contato
 
+## 🖥️ Preview do Projeto
+
+Abaixo está uma demonstração da interface do site da faculdade UNES desenvolvido com HTML5 e CSS3:
+
+<img width="1161" height="899" alt="image" src="https://github.com/user-attachments/assets/210ad180-76d4-40eb-9d50-59d18a884a7d" />
+
 ## 🎯 Objetivo
 Praticar:
 - Estruturação de páginas web
